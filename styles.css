@@ -1,0 +1,35 @@
+
+body{
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    margin:32px;
+    background-color: rgb(7, 111, 239);
+
+}
+h1, h2{
+    margin-bottom: 50px;
+}
+
+table, tr, td{
+    border-bottom: 1px solid black;
+
+}
+
+img{
+    width: 200px;
+    height: 250px;
+}
+
+a{
+    text-decoration: none;
+    color:black
+}
+
+.comment{
+    margin-top:50px;
+}
+
+footer{
+    margin-top:100px;
+}
